@@ -29,15 +29,25 @@ The link of the dataset is : https://www.kaggle.com/datasets/andrewmvd/heart-fai
 11. ![download (19)](https://github.com/ShyamashreeGhorai1/AN-ARTIFICIAL-INTELLIGENCE-APPROACH-HEART-FAILURE-DETECTION/assets/131132617/331229d5-de49-4ee4-8eec-08ad3650e93a)
 ## System Training and Classification
 Logistic Regression
+
 ![Screenshot (120)](https://github.com/ShyamashreeGhorai1/AN-ARTIFICIAL-INTELLIGENCE-APPROACH-HEART-FAILURE-DETECTION/assets/131132617/bfe004cb-45f4-40bb-accd-d2d62e0490b0)
+
 KNN
+
 ![Screenshot (122)](https://github.com/ShyamashreeGhorai1/AN-ARTIFICIAL-INTELLIGENCE-APPROACH-HEART-FAILURE-DETECTION/assets/131132617/dd3056cb-c4b1-4ade-b0d0-6dfe8742917e)
+
 Random Forest
+
 ![Screenshot (124)](https://github.com/ShyamashreeGhorai1/AN-ARTIFICIAL-INTELLIGENCE-APPROACH-HEART-FAILURE-DETECTION/assets/131132617/2a460d3f-0e6d-413a-824e-cfc58ad71daa)
+
 XGBoost
+
 ![Screenshot (126)](https://github.com/ShyamashreeGhorai1/AN-ARTIFICIAL-INTELLIGENCE-APPROACH-HEART-FAILURE-DETECTION/assets/131132617/d39b8cd7-8833-4b4e-a9ab-96c91c0c8f5e)
+
 AdaBoost
+
 ![Screenshot (128)](https://github.com/ShyamashreeGhorai1/AN-ARTIFICIAL-INTELLIGENCE-APPROACH-HEART-FAILURE-DETECTION/assets/131132617/b550e72e-68f2-4b00-babe-6865c64088a1)
+
 ## Conclusion
 The ratio of heart failure patients is going to increase day by day. To overcome this dangerous 
 situation, we develop a machine leaning model using comparative algorithm. Here we can see that 
